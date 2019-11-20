@@ -1,0 +1,7 @@
+package michelle;
+
+public class Pickup {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
